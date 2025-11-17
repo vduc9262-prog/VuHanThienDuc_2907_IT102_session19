@@ -9,7 +9,7 @@ int main() {
 
     do {
         printf("\n");
-        printf("==============================\n");
+        printf("=============MENU==============\n");
         printf("1. Nhap mang\n");
         printf("2. Hien thi mang\n");
         printf("3. Do dai mang\n");
@@ -89,3 +89,4 @@ int main() {
 
     return 0;
 }
+
